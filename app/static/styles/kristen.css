@@ -79,6 +79,17 @@ p {
     margin-left: 275px;
     text-align: justify;
     color: white;
+    float: left;
+}
+
+.profile h3 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 40px;
+    margin-left: 10px;
+    text-align: justify;
+    color: white;
+    float: right;
 }
 
 .profile img {
